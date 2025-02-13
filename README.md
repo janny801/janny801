@@ -13,24 +13,20 @@ I am a **Computer Science student at the University of Houston Honors College** 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
 
+## 📌 Pinned Projects  
+
+### [HackTX Project](https://github.com/janny801/hacktxproj)  
+A project developed for HackTX using JavaScript.  
+
+### [Notes Database Management Software](https://github.com/janny801/smallsqldbprac)  
+A small database project implementing SQL operations.  
+
+### [Personal Website](https://github.com/janny801/personal-website)  
+A React.js-based portfolio website showcasing my projects.  
 
 
 
-##  Featured Projects
-### **AI Chat and PDF Summarizer**  
-A chat tool that integrates **OpenAI API** for real-time AI-assisted conversations and PDF summarization.  
-🛠 **Technologies Used:** Node.js, Express, Socket.IO, OpenAI API  
-🔗 [GitHub Repository](https://github.com/janny801/ai-chat-summarizer)  
-
-### **Notes Database Management Software**  
-A **secure, web-based notes application** with password-protected CRUD operations.  
-🛠 **Technologies Used:** Node.js, Express, MySQL, JavaScript, CSS  
-🔗 [GitHub Repository](https://github.com/janny801/notes-database)  
-
-### **Personal Website**  
-A **React.js-based portfolio website** to showcase my projects and professional experience.  
-🛠 **Technologies Used:** React.js, HTML/CSS  
-🔗 [Live Website](https://janny801.github.io/personal-website)  
+##  Other Projects
 
 ### **Real-Time Chat Application**  
 A **Socket.IO-powered chat app** supporting dynamic messaging with WebSockets.  
