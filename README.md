@@ -8,6 +8,12 @@ I am a **Computer Science student at the University of Houston Honors College** 
 - **Technologies & Frameworks:** Node.js, Express, MySQL, React.js, Power Automate, GitHub, Web Sockets
 - **Areas of Focus:** Backend Development, Database Systems, AI Integration, Real-Time Applications
 
+## 🚀 Technologies I Work With  
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
+
+
 
 
 ##  Featured Projects
