@@ -13,16 +13,21 @@ I am a **Computer Science student at the University of Houston Honors College** 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
 
+
 ## 📌 Pinned Projects  
 
 ### [HackTX Project](https://github.com/janny801/hacktxproj)  
-A project developed for HackTX using JavaScript.  
+An AI-driven chat and PDF summarization tool built for HackTX 2024, utilizing Node.js, Express, and Socket.IO for real-time AI-assisted responses.  
+🔧 **Technologies Used:** Node.js, JavaScript, Express, Socket.IO, OpenAI API
+
 
 ### [Notes Database Management Software](https://github.com/janny801/smallsqldbprac)  
-A small database project implementing SQL operations.  
+A **secure, web-based notes application** with password-protected CRUD operations.  
+🔧 **Technologies Used:** Node.js, Express, MySQL, SQL, JavaScript  
 
 ### [Personal Website](https://github.com/janny801/personal-website)  
-A React.js-based portfolio website showcasing my projects.  
+A **React.js-based portfolio website** showcasing my projects and professional experience.  
+🔧 **Technologies Used:** React.js, HTML/CSS  
 
 
 ## 🔗 Other Projects  
