@@ -25,13 +25,20 @@ A small database project implementing SQL operations.
 A React.js-based portfolio website showcasing my projects.  
 
 
+## 🔗 Other Projects  
 
-##  Other Projects
-
-### **Real-Time Chat Application**  
+### [Real-Time Chat Application](https://github.com/janny801/real-time-chat-app)  
 A **Socket.IO-powered chat app** supporting dynamic messaging with WebSockets.  
-🛠 **Technologies Used:** Node.js, JavaScript, Socket.IO  
-🔗 [GitHub Repository](https://github.com/janny801/realtime-chat)  
+🔧 **Technologies Used:** Node.js, JavaScript, Socket.IO  
+
+### [YouTube Discord Bot](https://github.com/janny801/youtube-discordbot)  
+A **Discord bot** that plays music from YouTube and manages playlists.  
+🔧 **Technologies Used:** JavaScript, Node.js, Discord.js, YouTube API  
+
+### [Space Odyssey Game Project](https://github.com/janny801/Space-Odyssey-Project)  
+A **text-based space exploration game** where players navigate different planets, manage resources, and encounter random events.  
+🔧 **Technologies Used:** C++, Object-Oriented Programming, Random Event System  
+
 
 
 ## 📬 Get in Touch  
