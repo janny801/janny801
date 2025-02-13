@@ -30,3 +30,10 @@ A **React.js-based portfolio website** to showcase my projects and professional 
 A **Socket.IO-powered chat app** supporting dynamic messaging with WebSockets.  
 🛠 **Technologies Used:** Node.js, JavaScript, Socket.IO  
 🔗 [GitHub Repository](https://github.com/janny801/realtime-chat)  
+
+
+
+## Connect With Me
+📌 **Personal Website:** [janny801.github.io/personal-website](https://janny801.github.io/personal-website)  
+📌 **LinkedIn:** [linkedin.com/in/janredsal](https://www.linkedin.com/in/janredsal)  
+📌 **GitHub:** [github.com/janny801](https://github.com/janny801)  
