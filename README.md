@@ -32,7 +32,7 @@ A **Socket.IO-powered chat app** supporting dynamic messaging with WebSockets.
 🔗 [GitHub Repository](https://github.com/janny801/realtime-chat)  
 
 
-### 📬 Get in Touch  
+## 📬 Get in Touch  
 💼 LinkedIn: [linkedin.com/in/janredsal](https://www.linkedin.com/in/janredsal)  
 📧 Email: jred8069@gmail.com  
 🌐 Portfolio: [janny801.github.io/personal-website](https://janny801.github.io/personal-website)  
