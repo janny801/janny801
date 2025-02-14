@@ -44,6 +44,8 @@ A **Discord bot** that plays music from YouTube and manages playlists.
 A **text-based space exploration game** where players navigate different planets, manage resources, and encounter random events.  
 🔧 **Technologies Used:** C++, Object-Oriented Programming, Random Event System  
 
+### [Learning Simple Memory Management with C](https://github.com/janny801/simple-mem-management-in-c)  
+
 
 
 ## 📬 Get in Touch  
