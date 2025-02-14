@@ -45,7 +45,8 @@ A **text-based space exploration game** where players navigate different planets
 🔧 **Technologies Used:** C++, Object-Oriented Programming, Random Event System  
 
 ### [Learning Simple Memory Management with C](https://github.com/janny801/simple-mem-management-in-c)  
-
+A **C language project** that demonstrates basic memory management techniques including memory allocation, deallocation, and utilization tracking.  
+🔧 **Technologies Used:** C, Memory Management Algorithms
 
 
 ## 📬 Get in Touch  
