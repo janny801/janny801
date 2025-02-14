@@ -1,8 +1,9 @@
 # Hi, I'm Janred Salubayba
 
-I am a **Computer Science student at the University of Houston Honors College** with a passion for **software development, database management, and real-time applications**.
+I am a **Computer Science student at the University of Houston Honors College** with a passion for **software development, database management, and real-time applications**. I am inspired by how technology and software can solve real-world problems, and I am enthusiastic about being part of projects that allow me to contribute to meaningful solutions.
 
 My experience includes working as a **Database Development Intern at NASA**, building **AI-powered applications**, and developing **full-stack web solutions** using **Node.js, Express, MySQL, React.js, and more**.
+
 
 
 ##  Skills
