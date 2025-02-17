@@ -51,6 +51,9 @@ A **text-based space exploration game** where players navigate different planets
 A **C language project** that demonstrates basic memory management techniques including memory allocation, deallocation, and utilization tracking.  
 🔧 **Technologies Used:** C, Memory Management Algorithms
 
+### [Simple C Calculator Project](https://github.com/janny801/simple-c-calculator)
+
+
 
 ## 📬 Get in Touch  
 💼 LinkedIn: [linkedin.com/in/janredsal](https://www.linkedin.com/in/janredsal)  
