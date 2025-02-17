@@ -52,7 +52,8 @@ A **C language project** that demonstrates basic memory management techniques in
 🔧 **Technologies Used:** C, Memory Management Algorithms
 
 ### [Simple C Calculator Project](https://github.com/janny801/simple-c-calculator)
-
+A **C language calculator** that performs basic arithmetic operations in a single line.  
+🔧 **Technologies Used:** C, Basic Arithmetic Operations
 
 
 ## 📬 Get in Touch  
