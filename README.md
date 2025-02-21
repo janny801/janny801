@@ -23,17 +23,18 @@ My experience includes building **AI-powered applications** and developing **ful
 ## 📌 Pinned Projects  
 
 ### [HackTX Project](https://github.com/janny801/hacktxproj)  
-An AI-driven chat and PDF summarization tool built for HackTX 2024, utilizing Node.js, Express, and Socket.IO for real-time AI-assisted responses.  
-🔧 **Technologies Used:** Node.js, JavaScript, Express, Socket.IO, OpenAI API
-
+An **AI-driven chat and PDF summarization tool** built for HackTX 2024. This project leverages OpenAI's API to provide real-time AI-assisted responses, enabling users to interact with documents more efficiently. It features a chat interface for querying PDFs and retrieving concise summaries.  
+🔧 **Technologies Used:** Node.js, JavaScript, Express, Socket.IO, OpenAI API  
 
 ### [Notes Database Management Software](https://github.com/janny801/smallsqldbprac)  
-A **secure, web-based notes application** with password-protected CRUD operations.  
+A **secure, web-based notes application** that allows users to create, read, update, and delete (CRUD) notes with password-protected access. Designed with MySQL for structured data storage, this project ensures privacy and data integrity.  
 🔧 **Technologies Used:** Node.js, Express, MySQL, SQL, JavaScript  
 
 ### [Personal Website](https://github.com/janny801/personal-website)  
-A **React.js-based portfolio website** showcasing my projects and professional experience.  
-🔧 **Technologies Used:** React.js, HTML/CSS  
+A **React.js-based portfolio website** designed for potential employers and collaborators to reach out and gain a better understanding of the projects I am interested in and the experience I have. While it provides an overview of my work, I have not had the time to update it recently with newer projects, but I plan to do so soon.
+🔧 **Technologies Used:** React.js, HTML, CSS  
+
+
 ## 🔗 Other Projects  
 
 ### [Real-Time Chat Application](https://github.com/janny801/real-time-chat-app)  
