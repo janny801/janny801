@@ -54,7 +54,7 @@ A **C language calculator** that performs basic arithmetic operations in a singl
 🔧 **Technologies Used:** C, Basic Arithmetic Operations  
 
 ### [YouTube Discord Bot](https://github.com/janny801/youtube-discordbot)  
-A **Discord bot** that plays music from YouTube and manages playlists.  
+A **Discord bot** that played music from YouTube and managed playlists, developed using Discord.js v12. **This bot is no longer functional due to outdated dependencies.**  
 🔧 **Technologies Used:** JavaScript, Node.js, Discord.js, YouTube API  
 
 
