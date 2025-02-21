@@ -34,28 +34,28 @@ A **secure, web-based notes application** with password-protected CRUD operation
 ### [Personal Website](https://github.com/janny801/personal-website)  
 A **React.js-based portfolio website** showcasing my projects and professional experience.  
 🔧 **Technologies Used:** React.js, HTML/CSS  
-
 ## 🔗 Other Projects  
 
 ### [Real-Time Chat Application](https://github.com/janny801/real-time-chat-app)  
-A **Socket.IO-powered chat app** supporting dynamic messaging with WebSockets.  
+A **Socket.IO-powered chat application** that enables real-time messaging with WebSockets. Users can send and receive messages instantly, making it a foundation for live chat features in web applications.  
 🔧 **Technologies Used:** Node.js, JavaScript, Socket.IO  
 
 ### [Space Odyssey Game Project](https://github.com/janny801/Space-Odyssey-Project)  
-A **text-based space exploration game** where players navigate different planets, manage resources, and encounter random events.  
+A **text-based space exploration game** where players traverse different planets, encounter unpredictable events, and manage limited resources. The game incorporates randomness to create a dynamic and replayable experience.  
 🔧 **Technologies Used:** C++, Object-Oriented Programming, Random Event System  
 
 ### [Learning Simple Memory Management with C](https://github.com/janny801/simple-mem-management-in-c)  
-A **C language project** that demonstrates basic memory management techniques including memory allocation, deallocation, and utilization tracking.  
+A **C language project** that explores fundamental memory management concepts, including dynamic memory allocation, deallocation, and tracking memory usage. Useful for understanding how memory works at a lower level in C programming.  
 🔧 **Technologies Used:** C, Memory Management Algorithms  
 
 ### [Simple C Calculator Project](https://github.com/janny801/simple-c-calculator)  
-A **C language calculator** that performs basic arithmetic operations in a single line.  
+A **command-line calculator** written in C that allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. It takes a single-line input and evaluates the expression efficiently.  
 🔧 **Technologies Used:** C, Basic Arithmetic Operations  
 
 ### [YouTube Discord Bot](https://github.com/janny801/youtube-discordbot)  
 A **Discord bot** that played music from YouTube and managed playlists, developed using Discord.js v12. **This bot is no longer functional due to outdated dependencies.**  
 🔧 **Technologies Used:** JavaScript, Node.js, Discord.js, YouTube API  
+
 
 
 ## 📬 Get in Touch  
