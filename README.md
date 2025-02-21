@@ -35,16 +35,11 @@ A **secure, web-based notes application** with password-protected CRUD operation
 A **React.js-based portfolio website** showcasing my projects and professional experience.  
 🔧 **Technologies Used:** React.js, HTML/CSS  
 
-
 ## 🔗 Other Projects  
 
 ### [Real-Time Chat Application](https://github.com/janny801/real-time-chat-app)  
 A **Socket.IO-powered chat app** supporting dynamic messaging with WebSockets.  
 🔧 **Technologies Used:** Node.js, JavaScript, Socket.IO  
-
-### [YouTube Discord Bot](https://github.com/janny801/youtube-discordbot)  
-A **Discord bot** that plays music from YouTube and manages playlists.  
-🔧 **Technologies Used:** JavaScript, Node.js, Discord.js, YouTube API  
 
 ### [Space Odyssey Game Project](https://github.com/janny801/Space-Odyssey-Project)  
 A **text-based space exploration game** where players navigate different planets, manage resources, and encounter random events.  
@@ -52,11 +47,15 @@ A **text-based space exploration game** where players navigate different planets
 
 ### [Learning Simple Memory Management with C](https://github.com/janny801/simple-mem-management-in-c)  
 A **C language project** that demonstrates basic memory management techniques including memory allocation, deallocation, and utilization tracking.  
-🔧 **Technologies Used:** C, Memory Management Algorithms
+🔧 **Technologies Used:** C, Memory Management Algorithms  
 
-### [Simple C Calculator Project](https://github.com/janny801/simple-c-calculator)
+### [Simple C Calculator Project](https://github.com/janny801/simple-c-calculator)  
 A **C language calculator** that performs basic arithmetic operations in a single line.  
-🔧 **Technologies Used:** C, Basic Arithmetic Operations
+🔧 **Technologies Used:** C, Basic Arithmetic Operations  
+
+### [YouTube Discord Bot](https://github.com/janny801/youtube-discordbot)  
+A **Discord bot** that plays music from YouTube and manages playlists.  
+🔧 **Technologies Used:** JavaScript, Node.js, Discord.js, YouTube API  
 
 
 ## 📬 Get in Touch  
