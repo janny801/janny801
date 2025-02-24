@@ -33,7 +33,7 @@ A **secure, web-based notes application** that allows users to create, read, upd
 ### [Personal Website](https://janny801.github.io/personal-website/)  
 A **React.js-based portfolio website** designed for potential employers and collaborators to reach out and gain a better understanding of my projects and experience. While it provides an overview of my work, I plan to update it with newer projects soon.  
 
-🔗 [Repository](https://github.com/janny801/personal-website)  
+🔗 [Personal Website Repository](https://github.com/janny801/personal-website)  
 🔧 **Technologies Used:** React.js, HTML, CSS  
 
 ## 🔗 Other Projects  
