@@ -31,10 +31,10 @@ A **secure, web-based notes application** that allows users to create, read, upd
 🔧 **Technologies Used:** Node.js, Express, MySQL, SQL, JavaScript  
 
 ### [Personal Website](https://janny801.github.io/personal-website/)  
-A **React.js-based portfolio website** designed for potential employers and collaborators to reach out and gain a better understanding of the projects I am interested in and the experience I have. While it provides an overview of my work, I have not had the time to update it recently with newer projects, but I plan to do so soon.  
+A **React.js-based portfolio website** designed for potential employers and collaborators to reach out and gain a better understanding of my projects and experience. While it provides an overview of my work, I plan to update it with newer projects soon.  
 
+🔗 [Repository](https://github.com/janny801/personal-website)  
 🔧 **Technologies Used:** React.js, HTML, CSS  
-
 
 ## 🔗 Other Projects  
 
