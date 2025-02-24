@@ -30,7 +30,7 @@ An **AI-driven chat and PDF summarization tool** built for HackTX 2024. This pro
 A **secure, web-based notes application** that allows users to create, read, update, and delete (CRUD) notes with password-protected access. Designed with MySQL for structured data storage, this project ensures privacy and data integrity.  
 🔧 **Technologies Used:** Node.js, Express, MySQL, SQL, JavaScript  
 
-### [Personal Website](https://github.com/janny801/personal-website)  
+### [Personal Website]([https://github.com/janny801/personal-website](https://janny801.github.io/personal-website/))  
 A **React.js-based portfolio website** designed for potential employers and collaborators to reach out and gain a better understanding of the projects I am interested in and the experience I have. While it provides an overview of my work, I have not had the time to update it recently with newer projects, but I plan to do so soon.  
 
 🔧 **Technologies Used:** React.js, HTML, CSS  
