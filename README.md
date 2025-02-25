@@ -54,6 +54,11 @@ A **C language project** that explores fundamental memory management concepts, i
 A **command-line calculator** written in C that allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. It takes a single-line input and evaluates the expression efficiently.  
 🔧 **Technologies Used:** C, Basic Arithmetic Operations  
 
+### [Secure Encrypted File Transfer](https://github.com/janny801/HWK2Cybersec)  
+A **cybersecurity class project** demonstrating secure encrypted file transfer between a client and a server using Python. The objective is to ensure **confidentiality** by encrypting file data during transmission, preventing unauthorized access.  
+🔧 **Technologies Used:** Python, Cryptography Libraries  
+
+
 ### [YouTube Discord Bot](https://github.com/janny801/youtube-discordbot)  
 A **Discord bot** that played music from YouTube and managed playlists, developed using Discord.js v12. **This bot is no longer functional due to outdated dependencies.**  
 🔧 **Technologies Used:** JavaScript, Node.js, Discord.js, YouTube API  
