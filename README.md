@@ -67,6 +67,7 @@ A **cybersecurity class project** demonstrating secure encrypted file transfer b
 A **Discord bot** that played music from YouTube and managed playlists, developed using Discord.js v12. **This bot is no longer functional due to outdated dependencies.**  
 🔧 **Technologies Used:** JavaScript, Node.js, Discord.js, YouTube API  
 
+### [R Programs for Statistics Class](https://github.com/janny801/statistics-class-R-programs)  
 
 
 ## 📬 Get in Touch  
