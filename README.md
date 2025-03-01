@@ -62,15 +62,13 @@ A **command-line calculator** written in C that allows users to perform basic ar
 A **cybersecurity class project** demonstrating secure encrypted file transfer between a client and a server using Python. The objective is to ensure **confidentiality** by encrypting file data during transmission, preventing unauthorized access.  
 🔧 **Technologies Used:** Python, Cryptography Libraries  
 
-
-### [YouTube Discord Bot](https://github.com/janny801/youtube-discordbot)  
-A **Discord bot** that played music from YouTube and managed playlists, developed using Discord.js v12. **This bot is no longer functional due to outdated dependencies.**  
-🔧 **Technologies Used:** JavaScript, Node.js, Discord.js, YouTube API  
-
 ### [R Programs for Statistics Class](https://github.com/janny801/statistics-class-R-programs)  
 A **collection of R programs** developed for a university statistics course. This repository is **a work in progress** as new topics and analyses are added throughout the course. It covers various statistical concepts, including probability, descriptive statistics, hypothesis testing, and regression analysis. The scripts provide practical applications of statistical methods using R.  
 🔧 **Technologies Used:** R, Statistical Analysis, Data Visualization  
 
+### [YouTube Discord Bot](https://github.com/janny801/youtube-discordbot)  
+A **Discord bot** that played music from YouTube and managed playlists, developed using Discord.js v12. **This bot is no longer functional due to outdated dependencies.**  
+🔧 **Technologies Used:** JavaScript, Node.js, Discord.js, YouTube API  
 
 
 
