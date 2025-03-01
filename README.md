@@ -68,7 +68,7 @@ A **Discord bot** that played music from YouTube and managed playlists, develope
 🔧 **Technologies Used:** JavaScript, Node.js, Discord.js, YouTube API  
 
 ### [R Programs for Statistics Class](https://github.com/janny801/statistics-class-R-programs)  
-A **collection of R programs** developed for a university statistics course. The repository covers various statistical concepts, including probability, descriptive statistics, hypothesis testing, and regression analysis. The scripts provide practical applications of statistical methods using R.  
+A **collection of R programs** developed for a university statistics course. This repository is **a work in progress** as new topics and analyses are added throughout the course. It covers various statistical concepts, including probability, descriptive statistics, hypothesis testing, and regression analysis. The scripts provide practical applications of statistical methods using R.  
 🔧 **Technologies Used:** R, Statistical Analysis, Data Visualization  
 
 
