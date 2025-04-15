@@ -42,6 +42,9 @@ A **React.js-based portfolio website** designed for potential employers and coll
 
 ## 🔗 Other Projects  
 
+### [Automated PT Tracker with Google Apps Script](https://github.com/janny801/automate-PT-tracker-with-google-appscript-test)  
+
+
 ### [Real-Time Chat Application](https://github.com/janny801/real-time-chat-app)  
 A **Socket.IO-powered chat application** that enables real-time messaging with WebSockets. Users can send and receive messages instantly, making it a foundation for live chat features in web applications.  
 🔧 **Technologies Used:** Node.js, JavaScript, Socket.IO  
