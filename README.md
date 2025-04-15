@@ -43,6 +43,8 @@ A **React.js-based portfolio website** designed for potential employers and coll
 ## 🔗 Other Projects  
 
 ### [Automated PT Tracker with Google Apps Script](https://github.com/janny801/automate-PT-tracker-with-google-appscript-test)  
+A **collaborative project** that aimed to automate a club's membership point tracking system. Captures event attendance data from Google Form submissions onto a Google Sheet and updates member points automatically, streamlining the membership tracking process.  
+
 
 
 ### [Real-Time Chat Application](https://github.com/janny801/real-time-chat-app)  
