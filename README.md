@@ -75,6 +75,7 @@ A **collection of R programs** developed for a university statistics course. Thi
 A **Discord bot** that played music from YouTube and managed playlists, developed using Discord.js v12. **This bot is no longer functional due to outdated dependencies.**  
 🔧 **Technologies Used:** JavaScript, Node.js, Discord.js, YouTube API  
 
+## 📊 GitHub Stats  
 
 
 ## 📬 Get in Touch  
