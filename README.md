@@ -41,7 +41,7 @@ A **React.js-based portfolio website** designed for potential employers and coll
 🔧 **Technologies Used:** React.js, HTML, CSS  
 
 ### [Coog Music](https://coogmusic.com/)  
-
+A **Node.js-based music streaming platform** developed by a team of five for a university class project. It allows UH students and alumni to upload, share, and stream original music. Users can upload songs with metadata, create playlists, and stream tracks through a clean, interactive UI. The backend uses **Azure MySQL** for structured data storage and **Azure Blob Storage** for media file handling, while the frontend is built with **React** and styled using **CSS** for a responsive experience.  
 
 
 ## 🔗 Other Projects  
