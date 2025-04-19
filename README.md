@@ -40,6 +40,10 @@ A **React.js-based portfolio website** designed for potential employers and coll
 🔗 [Personal Website Repository](https://github.com/janny801/personal-website)  
 🔧 **Technologies Used:** React.js, HTML, CSS  
 
+### [Coog Music](https://coogmusic.com/)  
+
+
+
 ## 🔗 Other Projects  
 
 ### [Automated PT Tracker with Google Apps Script](https://github.com/janny801/automate-PT-tracker-with-google-appscript-test)  
