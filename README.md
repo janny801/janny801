@@ -90,4 +90,4 @@ A **Discord bot** that played music from YouTube and managed playlists, develope
 ## 📬 Get in Touch  
 💼 LinkedIn: [linkedin.com/in/janredsal](https://www.linkedin.com/in/janredsal)  
 📧 Email: jred8069@gmail.com  
-🌐 Portfolio: [janny801.github.io/personal-website](https://janny801.github.io/personal-website)  
+🌐 Personal Website: [janny801.github.io/personal-website](https://janny801.github.io/personal-website)  
