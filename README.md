@@ -25,13 +25,13 @@ A **Node.js-based music streaming platform** developed by a team of five for a u
 An **AI-driven chat and PDF summarization tool** built for HackTX 2024. This project leverages OpenAI's API to provide real-time AI-assisted responses, enabling users to interact with documents more efficiently. It features a chat interface for querying PDFs and retrieving concise summaries.  
 🔧 **Technologies Used:** Node.js, JavaScript, Express, Socket.IO, OpenAI API  
 
-### [Personal Website](https://janny801.github.io/personal-website/)  
+### [Personal Website](https://janny801.github.io/personal-website/)  ![Duration](https://img.shields.io/badge/Nov%202024%E2%80%93Jan%202025-black?style=for-the-badge&logo=calendar)
 A **React.js-based portfolio website** designed for potential employers and collaborators to reach out and gain a better understanding of my projects and experience. While it provides an overview of my work, I plan to update it with newer projects soon.  
 
 🔗 [Personal Website Repository](https://github.com/janny801/personal-website)  
 🔧 **Technologies Used:** React.js, HTML, CSS  
 
-### [Notes Database Management Software](https://github.com/janny801/smallsqldbprac)  
+### [Notes Database Management Software](https://github.com/janny801/smallsqldbprac)  ![Duration](https://img.shields.io/badge/Dec%202024%E2%80%93Feb%202025-black?style=for-the-badge&logo=calendar)
 A **secure, web-based notes application** that allows users to create, read, update, and delete (CRUD) notes with password-protected access. Designed with MySQL for structured data storage, this project ensures privacy and data integrity.  
 🔧 **Technologies Used:** Node.js, Express, MySQL, SQL, JavaScript  
 
