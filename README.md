@@ -17,7 +17,8 @@ I have included some of my projects below—feel free to check them out!
 
 ## 📌 Pinned Projects  
 
-### [Coog Music](https://coogmusic.com/)  — **Feb 2025 - May 2025**
+### [Coog Music](https://coogmusic.com/)  
+![Start](https://img.shields.io/badge/start-Feb%202025-blue) ![End](https://img.shields.io/badge/end-May%202025-blue)
 A **Node.js-based music streaming platform** developed by a team of five for a university class project. It allows UH students and alumni to upload, share, and stream original music. Users can upload songs with metadata, create playlists, and stream tracks through a clean, interactive UI. The backend uses **Azure MySQL** for structured data storage and **Azure Blob Storage** for media file handling, while the frontend is built with **React** and styled using **CSS** for a responsive experience.  
 🔧 **Technologies Used:** Node.js, JavaScript, React, CSS, Azure, MySQL
 
