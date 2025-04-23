@@ -21,7 +21,7 @@ I have included some of my projects below—feel free to check them out!
 A **Node.js-based music streaming platform** developed by a team of five for a university class project. It allows UH students and alumni to upload, share, and stream original music. Users can upload songs with metadata, create playlists, and stream tracks through a clean, interactive UI. The backend uses **Azure MySQL** for structured data storage and **Azure Blob Storage** for media file handling, while the frontend is built with **React** and styled using **CSS** for a responsive experience.  
 🔧 **Technologies Used:** Node.js, JavaScript, React, CSS, Azure, MySQL
 
-### [HackTX Project](https://github.com/janny801/hacktxproj)  
+### [HackTX Project](https://github.com/janny801/hacktxproj)  ![HackTX - Nov 2024](https://img.shields.io/badge/HackTX%20-%20Nov%202024-black?style=for-the-badge&logo=calendar)
 An **AI-driven chat and PDF summarization tool** built for HackTX 2024. This project leverages OpenAI's API to provide real-time AI-assisted responses, enabling users to interact with documents more efficiently. It features a chat interface for querying PDFs and retrieving concise summaries.  
 🔧 **Technologies Used:** Node.js, JavaScript, Express, Socket.IO, OpenAI API  
 
