@@ -21,10 +21,6 @@ I have included some of my projects below—feel free to check them out!
 An **AI-driven chat and PDF summarization tool** built for HackTX 2024. This project leverages OpenAI's API to provide real-time AI-assisted responses, enabling users to interact with documents more efficiently. It features a chat interface for querying PDFs and retrieving concise summaries.  
 🔧 **Technologies Used:** Node.js, JavaScript, Express, Socket.IO, OpenAI API  
 
-### [Notes Database Management Software](https://github.com/janny801/smallsqldbprac)  
-A **secure, web-based notes application** that allows users to create, read, update, and delete (CRUD) notes with password-protected access. Designed with MySQL for structured data storage, this project ensures privacy and data integrity.  
-🔧 **Technologies Used:** Node.js, Express, MySQL, SQL, JavaScript  
-
 ### [Personal Website](https://janny801.github.io/personal-website/)  
 A **React.js-based portfolio website** designed for potential employers and collaborators to reach out and gain a better understanding of my projects and experience. While it provides an overview of my work, I plan to update it with newer projects soon.  
 
@@ -34,6 +30,10 @@ A **React.js-based portfolio website** designed for potential employers and coll
 ### [Coog Music](https://coogmusic.com/)  
 A **Node.js-based music streaming platform** developed by a team of five for a university class project. It allows UH students and alumni to upload, share, and stream original music. Users can upload songs with metadata, create playlists, and stream tracks through a clean, interactive UI. The backend uses **Azure MySQL** for structured data storage and **Azure Blob Storage** for media file handling, while the frontend is built with **React** and styled using **CSS** for a responsive experience.  
 🔧 **Technologies Used:** Node.js, JavaScript, React, CSS, Azure, MySQL
+
+### [Notes Database Management Software](https://github.com/janny801/smallsqldbprac)  
+A **secure, web-based notes application** that allows users to create, read, update, and delete (CRUD) notes with password-protected access. Designed with MySQL for structured data storage, this project ensures privacy and data integrity.  
+🔧 **Technologies Used:** Node.js, Express, MySQL, SQL, JavaScript  
 
 ## 🔗 Other Projects  
 
