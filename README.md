@@ -21,7 +21,7 @@ I have included some of my projects below—feel free to check them out!
 A **Node.js-based music streaming platform** developed by a team of five for a university class project. It allows UH students and alumni to upload, share, and stream original music. Users can upload songs with metadata, create playlists, and stream tracks through a clean, interactive UI. The backend uses **Azure MySQL** for structured data storage and **Azure Blob Storage** for media file handling, while the frontend is built with **React** and styled using **CSS** for a responsive experience.  
 🔧 **Technologies Used:** Node.js, JavaScript, React, CSS, Azure, MySQL
 
-### [Automated PT Tracker with Google Apps Script](https://github.com/janny801/automate-PT-tracker-with-google-appscript-test)  
+### [Automated PT Tracker with Google Apps Script](https://github.com/janny801/automate-PT-tracker-with-google-appscript-test) ![Duration](https://img.shields.io/badge/Jan%202025%E2%80%93Apr%202025-black?style=for-the-badge&logo=calendar)
 A **collaborative project** that aimed to automate a club's membership point tracking system. Captures event attendance data from Google Form submissions onto a Google Sheet and updates member points automatically, streamlining the membership tracking process.  
 🔧 **Technologies Used:** Google Apps Script, Apps Script Triggers, Javascript
 
