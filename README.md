@@ -37,7 +37,7 @@ A **React.js-based portfolio website** designed for potential employers and coll
 
 ### [OneNote Horizontal Scroll & Panning (Windows 11, AutoHotkey)]
 An **AutoHotkey v1 script** that enhances navigation in OneNote Desktop on Windows 11 by restoring horizontal scrolling with Shift + Scroll Wheel and smooth panning with the Middle Mouse Button. The script only activates when OneNote is the active window, provides optional visual feedback (directional pan cursor and origin marker), and can auto-start at login for seamless use.  
-
+🔧 **Technologies Used:** AutoHotkey v1, Windows 11
 
 ### [Notes Database Management Software](https://github.com/janny801/smallsqldbprac)  ![Duration](https://img.shields.io/badge/Dec%202024%E2%80%93Feb%202025-black?style=for-the-badge&logo=calendar)
 A **secure, web-based notes application** that allows users to create, read, update, and delete (CRUD) notes with password-protected access. Designed with MySQL for structured data storage, this project ensures privacy and data integrity.  
