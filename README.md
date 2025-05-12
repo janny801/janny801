@@ -35,7 +35,7 @@ A **React.js-based portfolio website** designed for potential employers and coll
 🔗 [Personal Website Repository](https://github.com/janny801/personal-website)  
 🔧 **Technologies Used:** React.js, HTML, CSS  
 
-### [OneNote Horizontal Scroll & Panning (Windows 11, AutoHotkey)]
+### [OneNote Horizontal Scroll & Panning (Windows 11, AutoHotkey)](https://github.com/janny801/onenote-navigation-ahk-fix)  ![Duration](https://img.shields.io/badge/Mar%202025%E2%80%93Apr%202025-black?style=for-the-badge&logo=calendar)  
 An **AutoHotkey v1 script** that enhances navigation in OneNote Desktop on Windows 11 by restoring horizontal scrolling with Shift + Scroll Wheel and smooth panning with the Middle Mouse Button. The script only activates when OneNote is the active window, provides optional visual feedback (directional pan cursor and origin marker), and can auto-start at login for seamless use.  
 🔧 **Technologies Used:** AutoHotkey v1, Windows 11
 
