@@ -35,6 +35,8 @@ A **React.js-based portfolio website** designed for potential employers and coll
 🔗 [Personal Website Repository](https://github.com/janny801/personal-website)  
 🔧 **Technologies Used:** React.js, HTML, CSS  
 
+### [OneNote Horizontal Scroll & Panning (Windows 11, AutoHotkey)]
+
 ### [Notes Database Management Software](https://github.com/janny801/smallsqldbprac)  ![Duration](https://img.shields.io/badge/Dec%202024%E2%80%93Feb%202025-black?style=for-the-badge&logo=calendar)
 A **secure, web-based notes application** that allows users to create, read, update, and delete (CRUD) notes with password-protected access. Designed with MySQL for structured data storage, this project ensures privacy and data integrity.  
 🔧 **Technologies Used:** Node.js, Express, MySQL, SQL, JavaScript  
