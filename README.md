@@ -29,15 +29,15 @@ A **collaborative project** that aimed to automate a club's membership point tra
 An **AI-driven chat and PDF summarization tool** built for HackTX 2024. This project leverages OpenAI's API to provide real-time AI-assisted responses, enabling users to interact with documents more efficiently. It features a chat interface for querying PDFs and retrieving concise summaries.  
 🔧 **Technologies Used:** Node.js, JavaScript, Express, Socket.IO, OpenAI API  
 
+### [OneNote Horizontal Scroll & Panning (Windows 11, AutoHotkey)](https://github.com/janny801/onenote-navigation-ahk-fix)  ![Duration](https://img.shields.io/badge/Mar%202025%E2%80%93Apr%202025-black?style=for-the-badge&logo=calendar)  
+An **AutoHotkey v1 script** that enhances navigation in OneNote Desktop on Windows 11 by restoring horizontal scrolling with Shift + Scroll Wheel and smooth panning with the Middle Mouse Button. The script only activates when OneNote is the active window, provides optional visual feedback (directional pan cursor and origin marker), and can auto-start at login for seamless use.  
+🔧 **Technologies Used:** AutoHotkey v1, Windows 11
+
 ### [Personal Website](https://janny801.github.io/personal-website/)  ![Duration](https://img.shields.io/badge/Nov%202024%E2%80%93Jan%202025-black?style=for-the-badge&logo=calendar)
 A **React.js-based portfolio website** designed for potential employers and collaborators to reach out and gain a better understanding of my projects and experience. While it provides an overview of my work, I plan to update it with newer projects soon.  
 
 🔗 [Personal Website Repository](https://github.com/janny801/personal-website)  
 🔧 **Technologies Used:** React.js, HTML, CSS  
-
-### [OneNote Horizontal Scroll & Panning (Windows 11, AutoHotkey)](https://github.com/janny801/onenote-navigation-ahk-fix)  ![Duration](https://img.shields.io/badge/Mar%202025%E2%80%93Apr%202025-black?style=for-the-badge&logo=calendar)  
-An **AutoHotkey v1 script** that enhances navigation in OneNote Desktop on Windows 11 by restoring horizontal scrolling with Shift + Scroll Wheel and smooth panning with the Middle Mouse Button. The script only activates when OneNote is the active window, provides optional visual feedback (directional pan cursor and origin marker), and can auto-start at login for seamless use.  
-🔧 **Technologies Used:** AutoHotkey v1, Windows 11
 
 ## 🔗 Other Projects  
 
