@@ -39,15 +39,15 @@ A **React.js-based portfolio website** designed for potential employers and coll
 An **AutoHotkey v1 script** that enhances navigation in OneNote Desktop on Windows 11 by restoring horizontal scrolling with Shift + Scroll Wheel and smooth panning with the Middle Mouse Button. The script only activates when OneNote is the active window, provides optional visual feedback (directional pan cursor and origin marker), and can auto-start at login for seamless use.  
 🔧 **Technologies Used:** AutoHotkey v1, Windows 11
 
-### [Notes Database Management Software](https://github.com/janny801/smallsqldbprac)  ![Duration](https://img.shields.io/badge/Dec%202024%E2%80%93Feb%202025-black?style=for-the-badge&logo=calendar)
-A **secure, web-based notes application** that allows users to create, read, update, and delete (CRUD) notes with password-protected access. Designed with MySQL for structured data storage, this project ensures privacy and data integrity.  
-🔧 **Technologies Used:** Node.js, Express, MySQL, SQL, JavaScript  
-
 ## 🔗 Other Projects  
 
 ### [Real-Time Chat Application](https://github.com/janny801/real-time-chat-app)  
 A **Socket.IO-powered chat application** that enables real-time messaging with WebSockets. Users can send and receive messages instantly, making it a foundation for live chat features in web applications.  
 🔧 **Technologies Used:** Node.js, JavaScript, Socket.IO  
+
+### [Notes Database Management Software](https://github.com/janny801/smallsqldbprac)  ![Duration](https://img.shields.io/badge/Dec%202024%E2%80%93Feb%202025-black?style=for-the-badge&logo=calendar)
+A **secure, web-based notes application** that allows users to create, read, update, and delete (CRUD) notes with password-protected access. Designed with MySQL for structured data storage, this project ensures privacy and data integrity.  
+🔧 **Technologies Used:** Node.js, Express, MySQL, SQL, JavaScript  
 
 ### [Space Odyssey Game Project](https://github.com/janny801/Space-Odyssey-Project)  
 A **text-based space exploration game** where players traverse different planets, encounter unpredictable events, and manage limited resources. The game incorporates randomness to create a dynamic and replayable experience.  
