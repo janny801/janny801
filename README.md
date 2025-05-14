@@ -7,7 +7,7 @@ I enjoy **solving complex problems and building real-world applicable solutions*
 I have included some of my projects below. Feel free to check them out!
 
 ##  Skills
-- **Programming Languages:** C++, C, Python, JavaScript, SQL, R
+- **Programming Languages:** C++, C, Python, JavaScript, SQL, R, Google Apps Script, AutoHotkey
 - **Technologies & Frameworks:** Node.js, Express, MySQL, React.js, Power Automate, GitHub, Web Sockets
 - **Areas of Focus:** Backend Development, Database Systems, AI Integration, Real-Time Applications
 
