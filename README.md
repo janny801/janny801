@@ -9,7 +9,7 @@ I have included some of my projects below. Feel free to check them out!
 ##  Skills
 - **Programming Languages:** C++, C, Python, JavaScript, SQL, R, Google Apps Script, AutoHotkey
 - **Technologies & Frameworks:** Node.js, Express, MySQL, React.js, Power Automate, GitHub, Web Sockets
-- **Areas of Focus:** Backend Development, Database Systems, AI Integration, Real-Time Applications
+- **Areas of Focus:** Backend Development, Database Systems, AI Integration, Real-Time Applications, Workflow Automation
 
 ## 🚀 Technologies I Work With  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janny801&layout=compact&theme=tokyonight)
