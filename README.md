@@ -4,7 +4,7 @@ I am a **Computer Science student at the University of Houston Honors College**,
 
 I enjoy **solving complex problems and building real-world applicable solutions** through software development. I have a passion for **software development, database management, real-time applications, and cybersecurity**. I am inspired by how technology and software can solve real-world problems, and I am enthusiastic about being part of projects that allow me to contribute to meaningful solutions. My experience includes building **AI-powered applications** and developing **full-stack web solutions** using **Node.js, Express, MySQL, React.js, and more**. I have also begun exploring **cybersecurity**, focusing on securing applications, understanding vulnerabilities, and learning best practices for protecting systems and data.
 
-I have included some of my projects below. Feel free to check them out!
+Here are a few projects that showcase my skills and interests. I invite you to take a look.
 
 ##  Skills
 - **Programming Languages:** C++, C, Python, JavaScript, SQL, R, Google Apps Script, AutoHotkey
