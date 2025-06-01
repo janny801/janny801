@@ -34,6 +34,8 @@ An **AI-driven chat and PDF summarization tool** built for HackTX 2024. This pro
 An **AutoHotkey v1 script** that enhances navigation in OneNote Desktop on Windows 11 by restoring horizontal scrolling with Shift + Scroll Wheel and smooth panning with the Middle Mouse Button. The script only activates when OneNote is the active window, provides optional visual feedback (directional pan cursor and origin marker), and can auto-start at login for seamless use.  
 🔧 **Technologies Used:** AutoHotkey v1, Windows 11
 
+### [Custom Folder Icon Setter (Windows 11 Batch Script)](https://github.com/janny801/custom-folder-icons-windows)  ![Apr 2025–Jun 2025](https://img.shields.io/badge/Apr%202025%E2%80%93Jun%202025-black?style=for-the-badge&logo=calendar)
+
 ### [Personal Website](https://janny801.github.io/personal-website/)  ![Duration](https://img.shields.io/badge/Nov%202024%E2%80%93Jan%202025-black?style=for-the-badge&logo=calendar)
 A **React.js-based portfolio website** designed for potential employers and collaborators to reach out and gain a better understanding of my projects and experience. While it provides an overview of my work, I plan to update it with newer projects soon.  
 
