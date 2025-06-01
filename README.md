@@ -35,6 +35,8 @@ An **AutoHotkey v1 script** that enhances navigation in OneNote Desktop on Windo
 🔧 **Technologies Used:** AutoHotkey v1, Windows 11
 
 ### [Custom Folder Icon Setter (Windows 11 Batch Script)](https://github.com/janny801/custom-folder-icons-windows)  ![Apr 2025–Jun 2025](https://img.shields.io/badge/Apr%202025%E2%80%93Jun%202025-black?style=for-the-badge&logo=calendar)
+A **batch script tool** that lets users change Windows 11 folder icons using custom `.ico` files. Automates creation of `desktop.ini`, applies required attributes, restarts File Explorer for instant update, and opens the config file for manual check. Ideal for visually organizing folders with minimal manual effort.  
+
 
 ### [Personal Website](https://janny801.github.io/personal-website/)  ![Duration](https://img.shields.io/badge/Nov%202024%E2%80%93Jan%202025-black?style=for-the-badge&logo=calendar)
 A **React.js-based portfolio website** designed for potential employers and collaborators to reach out and gain a better understanding of my projects and experience. While it provides an overview of my work, I plan to update it with newer projects soon.  
