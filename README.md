@@ -6,7 +6,7 @@ I enjoy **solving complex problems and building real-world applicable solutions*
 
 My experience includes building **AI-powered applications** and developing **full-stack web solutions** using **Node.js, Express, MySQL, React.js, and more**. I have also begun exploring **cybersecurity**, focusing on securing applications, understanding vulnerabilities, and learning best practices for protecting systems and data.
 
-Here are a few projects that showcase my skills and interests. I invite you to take a look.
+Here are a few projects that showcase my skills and interests, but you can also explore more on my **[personal website](https://yourwebsite.com)**. Below, you’ll find additional projects hosted here on GitHub.
 
 ##  Skills
 - **Programming Languages:** C++, C, Python, JavaScript, SQL, R, Google Apps Script, AutoHotkey
