@@ -6,9 +6,9 @@ I enjoy **solving complex problems and building real-world solutions** through s
 
 My experience includes building **AI-powered applications** and developing **full-stack web solutions** using **Node.js, Express, MySQL, and more**. I have also been expanding into **cybersecurity**, focusing on securing applications, understanding vulnerabilities, and applying best practices to protect systems and data.  
 
-Here are a few projects that showcase my skills and interests. Below, you’ll also find additional projects hosted here on GitHub.  
+Below, you’ll find projects that showcase my skills and interests.  
 
-👉 Check out my **[Personal Website](https://janny801.github.io/personal-website/)** for more projects, details, and my portfolio!  
+👉 Check out my **[Personal Website](https://janny801.github.io/personal-website)** for my portfolio and a broader overview of my work!
 
 ##  Skills
 - **Programming Languages:** C++, C, Python, JavaScript, SQL, R, Google Apps Script, AutoHotkey
