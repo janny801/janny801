@@ -1,6 +1,10 @@
 # Hi, I'm Janred Salubayba  
 
-I am a **Computer Science student at the University of Houston Honors College**, graduating in **Spring 2027 with a capstone in cybersecurity**. I am also the **current Web Development Officer for the Society of Asian Scientists and Engineers (SASE) for the Fall 2025–2026 school year**, and a **former Database Development and Management Intern at NASA**.  
+I am a **Computer Science student at the University of Houston Honors College**, graduating in **Spring 2027 with a capstone in cybersecurity**. 
+
+I am a **former Database Development and Management Intern at NASA**, where I built an active database and automated workflows for 1,000+ research projects. I collaborated directly with researchers to design custom features that improved data accessibility and analysis. This experience gave me hands-on exposure to building real-world tools that supported NASA’s mission and enhanced research efficiency.
+
+Currently, I serve as the **Web Development Officer for the Society of Asian Scientists and Engineers (SASE) for the Fall 2025–2026 school year**, where I focus on building tools that improve engagement and streamline processes for our 400+ members.
 
 I enjoy **solving complex problems and building real-world solutions** through software development. My passions include **software development, database management, real-time applications, and cybersecurity**. I am inspired by how technology can address real-world challenges, and I am enthusiastic about contributing to meaningful projects.  
 
