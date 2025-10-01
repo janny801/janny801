@@ -1,12 +1,14 @@
-# Hi, I'm Janred Salubayba
+# Hi, I'm Janred Salubayba  
 
-I am a **Computer Science student at the University of Houston Honors College**, a **former Database Development and Management Intern at NASA**, the **former Web Development Intern for the Society of Asian Scientists and Engineers (SASE) during Spring 2025**, and the **upcoming Web Development Officer for SASE for the Fall 2025–2026 school year**.
+I am a **Computer Science student at the University of Houston Honors College**, graduating in **Spring 2027 with a capstone in cybersecurity**. I am also the **current Web Development Officer for the Society of Asian Scientists and Engineers (SASE) for the Fall 2025–2026 school year**, and a **former Database Development and Management Intern at NASA**.  
 
-I enjoy **solving complex problems and building real-world applicable solutions** through software development. I have a passion for **software development, database management, real-time applications, and cybersecurity**. I am inspired by how technology and software can solve real-world problems, and I am enthusiastic about contributing to meaningful projects.
+I enjoy **solving complex problems and building real-world solutions** through software development. My passions include **software development, database management, real-time applications, and cybersecurity**. I am inspired by how technology can address real-world challenges, and I am enthusiastic about contributing to meaningful projects.  
 
-My experience includes building **AI-powered applications** and developing **full-stack web solutions** using **Node.js, Express, MySQL, React.js, and more**. I have also begun exploring **cybersecurity**, focusing on securing applications, understanding vulnerabilities, and learning best practices for protecting systems and data.
+My experience includes building **AI-powered applications** and developing **full-stack web solutions** using **Node.js, Express, MySQL, and more**. I have also been expanding into **cybersecurity**, focusing on securing applications, understanding vulnerabilities, and applying best practices to protect systems and data.  
 
-Here are a few projects that showcase my skills and interests, but you can also explore more on my **[personal website](https://yourwebsite.com)**. Below, you’ll find additional projects hosted here on GitHub.
+Here are a few projects that showcase my skills and interests. Below, you’ll also find additional projects hosted here on GitHub.  
+
+👉 Check out my **[Personal Website](https://janny801.github.io/personal-website/)** for more projects, details, and my portfolio!  
 
 ##  Skills
 - **Programming Languages:** C++, C, Python, JavaScript, SQL, R, Google Apps Script, AutoHotkey
