@@ -1,36 +1,71 @@
-# Hi, I'm Janred Salubayba  
+# Hi, I'm Janred Salubayba 👋
 
-I am a **Computer Science student at the University of Houston Honors College**, graduating in **Spring 2027 with a capstone in cybersecurity**. 
+I am a **Computer Science student at the University of Houston Honors College**, graduating with a **capstone in Cybersecurity** (Spring 2027).
 
-I am a **former Database Development and Management Intern at NASA**, where I built an active database and automated workflows for 1,000+ research projects. I collaborated directly with researchers to design custom features that improved data accessibility and analysis. This experience gave me hands-on exposure to building real-world tools that supported NASA’s mission and enhanced research efficiency.
+I enjoy **solving complex problems and building real-world solutions** across backend engineering, event-driven architectures, database systems, and cybersecurity. I have built a strong foundation in both low-level and high-level system design through coursework and projects in operating systems, system architecture, and algorithms using **C++** and **Python**, alongside enterprise backend development in **Java (Spring Boot)**, **Apache Kafka**, and **JavaScript/Node.js**.
 
-Currently, I serve as the **Web Development Officer for the Society of Asian Scientists and Engineers (SASE) for the Fall 2025–2026 school year**, where I focus on building tools that improve engagement and streamline processes for our 400+ members.
+- 💼 **Recent Experience:** Software Engineering Intern at **USAA** (Enterprise Event Catalog with Java, Spring Boot & Kafka)
+- 🚀 **Prior Experience:** Software Engineering Intern at **NASA Stennis Space Center** (Database & Automated ETL Pipeline for 1,000+ R&D projects)
+- 🌐 **Leadership:** Web Development Officer for the **Society of Asian Scientists and Engineers (SASE)**, automating organizational workflows and building platforms for 500+ members
 
-I enjoy **solving complex problems and building real-world solutions** through software development. My passions include **software development, database management, real-time applications, and cybersecurity**. I am inspired by how technology can address real-world challenges, and I am enthusiastic about contributing to meaningful projects.  
+👉 Check out my **[Personal Website](https://janny801.github.io/personal-website)** for my portfolio and project showcases!
 
-My experience includes building **AI-powered applications** and developing **full-stack web solutions** using **Node.js, Express, MySQL, and more**. I have also been expanding into **cybersecurity**, focusing on securing applications, understanding vulnerabilities, and applying best practices to protect systems and data.  
+---
 
-👉 Check out my **[Personal Website](https://janny801.github.io/personal-website)** for my portfolio and a broader overview of my work!
+## 💼 Experience
 
-Below, you’ll find projects that showcase my skills and interests.
+### **USAA** — Software Engineering Intern  
+![May 2026 – Aug 2026](https://img.shields.io/badge/May%202026%E2%80%93Aug%202026-black?style=for-the-badge&logo=calendar) *San Antonio, TX*  
+- Worked within an Agile engineering team responsible for enterprise event-stream messaging and API management.
+- Designed and implemented a centralized **Event Catalog** system using **Java** and **Spring Boot**, delivering a searchable backend service and user interface to make Kafka events discoverable across multiple engineering units.
+- Gained hands-on experience with event-driven architectures, enterprise dependencies, and large-scale financial organization interoperability.
+- Managed source code and deployment pipelines using **Git** and **GitLab CI/CD**, ensuring secure, production-grade integration.
+- Actively participated in intern events, cross-functional workshops, and team learning sessions on production systems design.  
+🔧 **Technologies:** Java, Spring Boot, Apache Kafka, GitLab CI/CD, Git, REST APIs, Event-Driven Architecture
 
-##  Skills
-- **Programming Languages:** C++, C, Python, JavaScript, SQL, R, Google Apps Script, AutoHotkey
-- **Technologies & Frameworks:** Node.js, Express, MySQL, React.js, Power Automate, GitHub, Web Sockets
-- **Areas of Focus:** Backend Development, Database Systems, AI Integration, Real-Time Applications, Workflow Automation
+### **Society of Asian Scientists and Engineers (SASE)** — Web Development Officer  
+![Jan 2025 – Present](https://img.shields.io/badge/Jan%202025%E2%80%93Present-black?style=for-the-badge&logo=calendar) *Houston, TX*  
+*(Previously Web Development Intern | Jan 2025 – May 2025)*  
+- Progressed from Web Development Intern to Web Development Officer, creating internal tools and automating organizational workflows for **500+ members**.
+- Designed and fully deployed an automated membership point-tracking system using **Google Apps Script**, eliminating manual data entry across all chapter events.
+- Built an automated email system delivering personalized welcome emails to new members and real-time attendance confirmations with updated point balances.
+- Managed chapter web platforms, applied SEO strategies, and expanded Discord engagement via custom bot automations, roles, and integrations.
+- Coordinated community outreach (Houston Food Bank) and participated in professional development workshops including resume reviews and LinkedIn sessions.  
+🔧 **Technologies:** JavaScript, Google Apps Script, Discord API, Web Development, SEO, Automation
+
+### **NASA Stennis Space Center** — Software Engineering Intern  
+![Jan 2024 – May 2024](https://img.shields.io/badge/Jan%202024%E2%80%93May%202024-black?style=for-the-badge&logo=calendar) *Stennis Space Center, MS*  
+*(Database Development and Management Intern)*  
+- Developed and deployed an active, centralized project database enabling NASA personnel to query and analyze **1,000+ NASA-funded R&D projects**.
+- Wrote data-extraction scripts in **Python** (`mysql.connector`, `csv`) to query project records from MySQL and automated integration into SharePoint Lists via **Power Automate**, eliminating manual data entry.
+- Designed over 20 custom columns featuring dynamic field formatting (color-coding, sortable filters), significantly reducing search times for researchers and accelerating data analysis.
+- Collaborated directly with NASA researchers and stakeholders through iterative Agile feedback loops to tailor database features to real-world use cases.  
+🔧 **Technologies:** Python, MySQL, Microsoft Power Automate, SharePoint, ETL, Agile
+
+---
+
+## 🛠 Skills
+
+- **Programming Languages:** Java, C++, C, Python, JavaScript, SQL, R, Google Apps Script, AutoHotkey
+- **Technologies & Frameworks:** Spring Boot, Apache Kafka, Node.js, Express, React.js, MySQL, Power Automate, Git, GitLab CI/CD, Socket.IO / WebSockets, REST APIs
+- **Areas of Focus:** Event-Driven Architecture, Backend Development, Database Systems & ETL Pipelines, Cybersecurity, Real-Time Applications, Workflow Automation, Systems Design & Algorithms
+
+---
 
 ## 🚀 Technologies I Work With  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janny801&layout=compact&theme=tokyonight)
 
+---
+
 ## 📌 Pinned Projects  
 
 ### [Coog Music](https://coogmusic.com/) ![Duration](https://img.shields.io/badge/Feb%202025%E2%80%93May%202025-black?style=for-the-badge&logo=calendar)
-A **Node.js-based music streaming platform** developed by a team of five for a university class project. It allows UH students and alumni to upload, share, and stream original music. Users can upload songs with metadata, create playlists, and stream tracks through a clean, interactive UI. The backend uses **Azure MySQL** for structured data storage and **Azure Blob Storage** for media file handling, while the frontend is built with **React** and styled using **CSS** for a responsive experience.  
+A **Node.js-based music streaming platform** developed by a team of five for University of Houston musicians and listeners. It allows UH students and alumni to upload, share, and stream original music. Users can upload songs with metadata, create playlists, and stream tracks through a clean, interactive UI. The backend uses **Azure MySQL** for structured data storage and **Azure Blob Storage** for media file handling, with a responsive frontend built in **React**.  
 🔧 **Technologies Used:** Node.js, JavaScript, React, CSS, Azure, MySQL
 
 ### [Automated PT Tracker with Google Apps Script](https://github.com/janny801/automate-PT-tracker-with-google-appscript-test) ![Duration](https://img.shields.io/badge/Jan%202025%E2%80%93Apr%202025-black?style=for-the-badge&logo=calendar)
-A **collaborative project** that aimed to automate a club's membership point tracking system. Captures event attendance data from Google Form submissions onto a Google Sheet and updates member points automatically, streamlining the membership tracking process.  
-🔧 **Technologies Used:** Google Apps Script, Apps Script Triggers, Javascript
+An automated membership point tracking system developed for the Society of Asian Scientists and Engineers (SASE). Captures event attendance data from Google Form submissions directly into Google Sheets and updates member points automatically, eliminating manual entry and streamlining engagement tracking for 500+ members.  
+🔧 **Technologies Used:** Google Apps Script, Apps Script Triggers, JavaScript
 
 ### [HackTX Project](https://github.com/janny801/hacktxproj)  ![HackTX - Nov 2024](https://img.shields.io/badge/HackTX%20-%20Nov%202024-black?style=for-the-badge&logo=calendar)
 An **AI-driven chat and PDF summarization tool** built for HackTX 2024. This project leverages OpenAI's API to provide real-time AI-assisted responses, enabling users to interact with documents more efficiently. It features a chat interface for querying PDFs and retrieving concise summaries.  
@@ -45,10 +80,12 @@ A **batch script tool** that lets users change Windows 11 folder icons using cus
 🔧 **Technologies Used:** Windows Batch Scripting, desktop.ini, Explorer automation
 
 ### [Personal Website](https://janny801.github.io/personal-website/)  ![Duration](https://img.shields.io/badge/Nov%202024%E2%80%93Jan%202025-black?style=for-the-badge&logo=calendar)
-A **React.js-based portfolio website** designed for potential employers and collaborators to reach out and gain a better understanding of my projects and experience. While it provides an overview of my work, I plan to update it with newer projects soon.  
+A **React.js-based portfolio website** designed for potential employers and collaborators to reach out and gain a better understanding of my projects and experience.  
 
 🔗 [Personal Website Repository](https://github.com/janny801/personal-website)  
 🔧 **Technologies Used:** React.js, HTML, CSS  
+
+---
 
 ## 🔗 Other Projects  
 
@@ -77,12 +114,14 @@ A **cybersecurity class project** demonstrating secure encrypted file transfer b
 🔧 **Technologies Used:** Python, Cryptography Libraries  
 
 ### [R Programs for Statistics Class](https://github.com/janny801/Basic-R-programs-for-Statistics-Class)  
-A **collection of R programs** developed for a university statistics course. This repository is **a work in progress** as new topics and analyses are added throughout the course. It covers various statistical concepts, including probability, descriptive statistics, hypothesis testing, and regression analysis. The scripts provide practical applications of statistical methods using R.  
+A **collection of R programs** developed for a university statistics course. It covers various statistical concepts, including probability, descriptive statistics, hypothesis testing, and regression analysis. The scripts provide practical applications of statistical methods using R.  
 🔧 **Technologies Used:** R, Statistical Analysis, Data Visualization  
 
 ### [YouTube Discord Bot](https://github.com/janny801/youtube-discordbot)  
 A **Discord bot** that played music from YouTube and managed playlists, developed using Discord.js v12. **This bot is no longer functional due to outdated dependencies.**  
 🔧 **Technologies Used:** JavaScript, Node.js, Discord.js, YouTube API  
+
+---
 
 ## 📊 GitHub Stats  
 
@@ -90,7 +129,9 @@ A **Discord bot** that played music from YouTube and managed playlists, develope
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=janny801&theme=tokyo-night)
 
+---
+
 ## 📬 Get in Touch  
-💼 LinkedIn: [linkedin.com/in/janredsal](https://www.linkedin.com/in/janredsal)  
-📧 Email: jred8069@gmail.com  
-🌐 Personal Website: [janny801.github.io/personal-website](https://janny801.github.io/personal-website)  
+💼 **LinkedIn:** [linkedin.com/in/janredsal](https://www.linkedin.com/in/janredsal)  
+📧 **Email:** [jred8069@gmail.com](mailto:jred8069@gmail.com)  
+🌐 **Personal Website:** [janny801.github.io/personal-website](https://janny801.github.io/personal-website)  
