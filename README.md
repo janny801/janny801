@@ -24,7 +24,7 @@ I enjoy **solving complex problems and building real-world solutions** across ba
 🔧 **Technologies:** Java, Spring Boot, Apache Kafka, GitLab CI/CD, Git, REST APIs, Event-Driven Architecture
 
 ### **Society of Asian Scientists and Engineers (SASE)** — Web Development Officer  
-![Jan 2025 – Present](https://img.shields.io/badge/Jan%202025%E2%80%93Present-black?style=for-the-badge&logo=calendar) *Houston, TX*  
+![Jan 2025 – May 2026](https://img.shields.io/badge/Jan%202025%E2%80%93May%202026-black?style=for-the-badge&logo=calendar) *Houston, TX*  
 *(Previously Web Development Intern | Jan 2025 – May 2025)*  
 - Progressed from Web Development Intern to Web Development Officer, creating internal tools and automating organizational workflows for **500+ members**.
 - Designed and fully deployed an automated membership point-tracking system using **Google Apps Script**, eliminating manual data entry across all chapter events.
@@ -35,7 +35,6 @@ I enjoy **solving complex problems and building real-world solutions** across ba
 
 ### **NASA Stennis Space Center** — Software Engineering Intern  
 ![Jan 2024 – May 2024](https://img.shields.io/badge/Jan%202024%E2%80%93May%202024-black?style=for-the-badge&logo=calendar) *Stennis Space Center, MS*  
-*(Database Development and Management Intern)*  
 - Developed and deployed an active, centralized project database enabling NASA personnel to query and analyze **1,000+ NASA-funded R&D projects**.
 - Wrote data-extraction scripts in **Python** (`mysql.connector`, `csv`) to query project records from MySQL and automated integration into SharePoint Lists via **Power Automate**, eliminating manual data entry.
 - Designed over 20 custom columns featuring dynamic field formatting (color-coding, sortable filters), significantly reducing search times for researchers and accelerating data analysis.
