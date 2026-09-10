@@ -51,11 +51,6 @@ I enjoy **solving complex problems and building real-world solutions** across ba
 
 ---
 
-## 🚀 Technologies I Work With  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janny801&layout=compact&theme=tokyonight)
-
----
-
 ## 📌 Pinned Projects  
 
 ### [Coog Music](https://coogmusic.com/) ![Duration](https://img.shields.io/badge/Feb%202025%E2%80%93May%202025-black?style=for-the-badge&logo=calendar)
