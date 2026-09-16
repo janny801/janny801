@@ -117,14 +117,6 @@ A **Discord bot** that played music from YouTube and managed playlists, develope
 
 ---
 
-## 📊 GitHub Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=janny801&show_icons=true&theme=tokyonight&hide=contribs)
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=janny801&theme=tokyo-night)
-
----
-
 ## 📬 Get in Touch  
 💼 **LinkedIn:** [linkedin.com/in/janredsal](https://www.linkedin.com/in/janredsal)  
 📧 **Email:** [jred8069@gmail.com](mailto:jred8069@gmail.com)  
