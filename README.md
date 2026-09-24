@@ -53,6 +53,10 @@ I enjoy **solving complex problems and building real-world solutions** across ba
 
 ## 📌 Pinned Projects  
 
+### [SongSwipe](https://github.com/janny801/songSwipe) ![Duration](https://img.shields.io/badge/Aug%202026%E2%80%93WIP-black?style=for-the-badge&logo=calendar)
+A **full-stack mobile music discovery application** inspired by swipe-based discovery experiences. SongSwipe lets users browse tracks, listen to audio previews, like or pass on songs, manage playlists, and receive personalized recommendations based on their listening preferences and swipe history.
+🔧 **Technologies Used:** React Native, Expo, JavaScript, Node.js, Express, PostgreSQL, Spotify Web API, JWT, Google OAuth
+
 ### [Coog Music](https://coogmusic.com/) ![Duration](https://img.shields.io/badge/Feb%202025%E2%80%93May%202025-black?style=for-the-badge&logo=calendar)
 A **Node.js-based music streaming platform** developed by a team of five for University of Houston musicians and listeners. It allows UH students and alumni to upload, share, and stream original music. Users can upload songs with metadata, create playlists, and stream tracks through a clean, interactive UI. The backend uses **Azure MySQL** for structured data storage and **Azure Blob Storage** for media file handling, with a responsive frontend built in **React**.  
 🔧 **Technologies Used:** Node.js, JavaScript, React, CSS, Azure, MySQL
