@@ -30,6 +30,7 @@ I enjoy **solving complex problems and building real-world solutions** across ba
 - Designed and fully deployed an automated membership point-tracking system using **Google Apps Script**, eliminating manual data entry across all chapter events.
 - Built an automated email system delivering personalized welcome emails to new members and real-time attendance confirmations with updated point balances.
 - Managed chapter web platforms, applied SEO strategies, and expanded Discord engagement via custom bot automations, roles, and integrations.
+- Mentored a Web Development Intern through the full project lifecycle of an NFC card-reader application, from conception to release and implementation, enabling students to scan their University of Houston ID cards at events.
 - Coordinated community outreach (Houston Food Bank) and participated in professional development workshops including resume reviews and LinkedIn sessions.  
 🔧 **Technologies:** JavaScript, Google Apps Script, Discord API, Web Development, SEO, Automation
 
