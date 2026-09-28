@@ -65,6 +65,11 @@ A **full-stack mobile music discovery application** inspired by swipe-based disc
 A **Node.js-based music streaming platform** developed by a team of five for University of Houston musicians and listeners, supporting **30 concurrent campus users**. It allows UH students and alumni to upload, share, and stream original music. Users can upload songs with metadata, create playlists, and stream tracks through a clean, interactive UI. The backend uses **Azure MySQL** for structured data storage and **Azure Blob Storage** for media file handling, with a responsive frontend built in **React**.
 🔧 **Technologies Used:** Node.js, JavaScript, React, CSS, Azure, MySQL
 
+### [MicMute](https://github.com/janny801/mic_mute) ![Duration](https://img.shields.io/badge/Sep%202026%E2%80%93Oct%202026-black?style=for-the-badge&logo=calendar)
+A native macOS menu bar utility that provides system-wide microphone control with global mute shortcuts, push-to-talk mode, hardware-level CoreAudio muting, audio feedback cues, microphone testing, and bidirectional FaceTime synchronization.
+
+🔧 **Technologies Used:** Swift, SwiftUI, AppKit, CoreAudio, macOS, SketchyBar
+
 ### [Automated PT Tracker with Google Apps Script](https://github.com/janny801/automate-PT-tracker-with-google-appscript-test) ![Duration](https://img.shields.io/badge/Jan%202025%E2%80%93Apr%202025-black?style=for-the-badge&logo=calendar)
 An automated membership point tracking system developed for the Society of Asian Scientists and Engineers (SASE). Captures event attendance data from Google Form submissions directly into Google Sheets and updates member points automatically, eliminating manual entry for **400+ members** and saving **5+ hours weekly**.
 🔧 **Technologies Used:** Google Apps Script, Apps Script Triggers, JavaScript
