@@ -59,37 +59,44 @@ I enjoy **solving complex problems and building real-world solutions** across ba
 
 ### [SongSwipe](https://github.com/janny801/songSwipe) ![Duration](https://img.shields.io/badge/Aug%202026%E2%80%93WIP-black?style=for-the-badge&logo=calendar)
 A **full-stack mobile music discovery application** inspired by swipe-based discovery experiences. SongSwipe lets users browse tracks, listen to audio previews, like or pass on songs, manage playlists, and receive personalized recommendations based on their listening preferences and swipe history.
+
 🔧 **Technologies Used:** React Native, Expo, JavaScript, Node.js, Express, PostgreSQL, Spotify Web API, JWT, Google OAuth
 
 ### [Coog Music](https://coogmusic.com/) ![Duration](https://img.shields.io/badge/Feb%202025%E2%80%93May%202025-black?style=for-the-badge&logo=calendar)
 A **Node.js-based music streaming platform** developed by a team of five for University of Houston musicians and listeners, supporting **30 concurrent campus users**. It allows UH students and alumni to upload, share, and stream original music. Users can upload songs with metadata, create playlists, and stream tracks through a clean, interactive UI. The backend uses **Azure MySQL** for structured data storage and **Azure Blob Storage** for media file handling, with a responsive frontend built in **React**.
+
 🔧 **Technologies Used:** Node.js, JavaScript, React, CSS, Azure, MySQL
 
 ### [MicMute](https://github.com/janny801/mic_mute) ![Duration](https://img.shields.io/badge/Sep%202026%E2%80%93Oct%202026-black?style=for-the-badge&logo=calendar)
-A native macOS menu bar utility that provides system-wide microphone control with global mute shortcuts, push-to-talk mode, hardware-level CoreAudio muting, audio feedback cues, microphone testing, and bidirectional FaceTime synchronization.
+A native macOS menu bar utility that provides instant, system-wide microphone control from the macOS menu bar. MicMute supports global mute shortcuts, customizable push-to-talk and toggle modes, hardware-level CoreAudio muting, audio feedback cues, microphone testing, input device switching, open-at-login support, and global audio synchronization across communication applications.
 
 🔧 **Technologies Used:** Swift, SwiftUI, AppKit, CoreAudio, macOS, SketchyBar
 
 ### [Automated PT Tracker with Google Apps Script](https://github.com/janny801/automate-PT-tracker-with-google-appscript-test) ![Duration](https://img.shields.io/badge/Jan%202025%E2%80%93Apr%202025-black?style=for-the-badge&logo=calendar)
 An automated membership point tracking system developed for the Society of Asian Scientists and Engineers (SASE). Captures event attendance data from Google Form submissions directly into Google Sheets and updates member points automatically, eliminating manual entry for **400+ members** and saving **5+ hours weekly**.
+
 🔧 **Technologies Used:** Google Apps Script, Apps Script Triggers, JavaScript
 
 ### [HackTX Project](https://github.com/janny801/hacktxproj)  ![HackTX - Nov 2024](https://img.shields.io/badge/HackTX%20-%20Nov%202024-black?style=for-the-badge&logo=calendar)
 An **AI-driven chat and PDF summarization tool** built for HackTX 2024. This project leverages OpenAI's API to provide real-time AI-assisted responses, enabling users to interact with documents more efficiently. It features a chat interface for querying PDFs and retrieving concise summaries.  
+
 🔧 **Technologies Used:** Node.js, JavaScript, Express, Socket.IO, OpenAI API  
 
 ### [OneNote Horizontal Scroll & Panning (Windows 11, AutoHotkey)](https://github.com/janny801/onenote-navigation-ahk-fix)  ![Duration](https://img.shields.io/badge/Mar%202025%E2%80%93Apr%202025-black?style=for-the-badge&logo=calendar)  
 An **AutoHotkey v1 script** that enhances navigation in OneNote Desktop on Windows 11 by restoring horizontal scrolling with Shift + Scroll Wheel and smooth panning with the Middle Mouse Button. The script only activates when OneNote is the active window, provides optional visual feedback (directional pan cursor and origin marker), and can auto-start at login for seamless use.  
+
 🔧 **Technologies Used:** AutoHotkey v1, Windows 11
 
 ### [Custom Folder Icon Setter (Windows 11 Batch Script)](https://github.com/janny801/custom-folder-icons-windows)  ![Apr 2025–Jun 2025](https://img.shields.io/badge/Apr%202025%E2%80%93Jun%202025-black?style=for-the-badge&logo=calendar)
 A **batch script tool** that lets users change Windows 11 folder icons using custom `.ico` files. Automates creation of `desktop.ini`, applies required attributes, restarts File Explorer for instant update, and opens the config file for manual check. Ideal for visually organizing folders with minimal manual effort.  
+
 🔧 **Technologies Used:** Windows Batch Scripting, desktop.ini, Explorer automation
 
 ### [Personal Website](https://janny801.github.io/personal-website/)  ![Duration](https://img.shields.io/badge/Nov%202024%E2%80%93Jan%202025-black?style=for-the-badge&logo=calendar)
 A **React.js-based portfolio website** designed for potential employers and collaborators to reach out and gain a better understanding of my projects and experience.  
 
 🔗 [Personal Website Repository](https://github.com/janny801/personal-website)  
+
 🔧 **Technologies Used:** React.js, HTML, CSS  
 
 ---
