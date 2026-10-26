@@ -57,6 +57,11 @@ I enjoy **solving complex problems and building real-world solutions** across ba
 
 ## 📌 Pinned Projects  
 
+### [FitVault](https://fitvault.space/)  ![HackTX - Oct 2026](https://img.shields.io/badge/HackTX%20-%20Oct%202026-black?style=for-the-badge&logo=calendar)
+An **intelligent digital wardrobe and virtual stylist web application** built for HackTX 2026 in a **team of 3**. FitVault transforms physical closets into an interactive digital inventory using AI to detect, segment, tag, and remove backgrounds from clothing photos. It features a context-aware outfit recommendation engine tailored to real-time weather and occasions from owned items, wardrobe gap analysis with shopping recommendations, an interactive drag-and-drop outfit canvas, and closet utilization analytics.
+
+🔧 **Technologies Used:** React 19, Node.js, Express, Tailwind CSS, PostgreSQL (pgvector), Supabase Storage, Google Gemini API, Zustand, JWT
+
 ### [SongSwipe](https://github.com/janny801/songSwipe) ![Duration](https://img.shields.io/badge/Aug%202026%E2%80%93WIP-black?style=for-the-badge&logo=calendar)
 A **full-stack mobile music discovery application** inspired by swipe-based discovery experiences. SongSwipe lets users browse tracks, listen to audio previews, like or pass on songs, manage playlists, and receive personalized recommendations based on their listening preferences and swipe history.
 
