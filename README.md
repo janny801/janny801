@@ -57,6 +57,11 @@ I enjoy **solving complex problems and building real-world solutions** across ba
 
 ## 📌 Pinned Projects  
 
+### [ThockCheck](https://github.com/janny801/thockcheck) ![Duration](https://img.shields.io/badge/Oct%202026%E2%80%93WIP-black?style=for-the-badge&logo=calendar)
+An **audio-first, community-driven showcase and discovery platform** engineered specifically for custom mechanical keyboard enthusiasts and acoustic purists. ThockCheck functions as an interactive acoustic laboratory and build sheet, allowing builders to upload uncompressed typing sound tests alongside an exact, granular breakdown of every mod, switch, plate, and stabilizer used. Features high-fidelity typing test playback with waveform scrubbing, multi-category omnibar search, community acoustic scoring (1–10), and nested discussion threads.
+
+🔧 **Technologies Used:** TypeScript, Node.js, Express, PostgreSQL, Web Audio API / HTML5 Audio, Tailwind CSS, Vitest, Zod, JWT
+
 ### [FitVault](https://fitvault.space/)  ![HackTX - Oct 2026](https://img.shields.io/badge/HackTX%20-%20Oct%202026-black?style=for-the-badge&logo=calendar)
 An **intelligent digital wardrobe and virtual stylist web application** built for HackTX 2026 in a **team of 3**. FitVault transforms physical closets into an interactive digital inventory using AI to detect, segment, tag, and remove backgrounds from clothing photos. It features a context-aware outfit recommendation engine tailored to real-time weather and occasions from owned items, wardrobe gap analysis with shopping recommendations, an interactive drag-and-drop outfit canvas, and closet utilization analytics.
 
