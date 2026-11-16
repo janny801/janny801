@@ -57,11 +57,6 @@ I enjoy **solving complex problems and building real-world solutions** across ba
 
 ## 📌 Pinned Projects  
 
-### [FirstTrip](https://devpost.com/software/firsttrip-right-crew-right-time?ref_content=user-portfolio&ref_feature=in_progress)  ![CenterPoint Hackathon - Nov 2026](https://img.shields.io/badge/CenterPoint%20Hackathon%20-%20Nov%202026-black?style=for-the-badge&logo=calendar)
-An **interactive, full-stack decision-support dashboard** built for power utility dispatchers for the CenterPoint Energy + UH Code Coogs Hackathon 2026. FirstTrip analyzes historical electrical outage records, telemetry, circuit attributes, and environmental conditions to predict follow-up trip ("second trip") risks and surface critical pre-dispatch context in a prioritized, real-time triage queue. Features explainable incident inspection, human-in-the-loop dispatcher workflows, responsible ML safeguards with automated performance release gates, and zero-mock production safety.
-
-🔧 **Technologies Used:** React, TypeScript, Vite, Python 3.12, FastAPI, DuckDB, Pandas, Scikit-learn, Joblib
-
 ### [ThockCheck](https://github.com/janny801/thockcheck) ![Duration](https://img.shields.io/badge/Oct%202026%E2%80%93WIP-black?style=for-the-badge&logo=calendar)
 An **audio-first, community-driven showcase and discovery platform** engineered specifically for custom mechanical keyboard enthusiasts and acoustic purists. ThockCheck functions as an interactive acoustic laboratory and build sheet, allowing builders to upload uncompressed typing sound tests alongside an exact, granular breakdown of every mod, switch, plate, and stabilizer used. Features high-fidelity typing test playback with waveform scrubbing, multi-category omnibar search, community acoustic scoring (1–10), and nested discussion threads.
 
@@ -76,6 +71,11 @@ An **intelligent digital wardrobe and virtual stylist web application** built fo
 A **full-stack mobile music discovery application** inspired by swipe-based discovery experiences. SongSwipe lets users browse tracks, listen to audio previews, like or pass on songs, manage playlists, and receive personalized recommendations based on their listening preferences and swipe history.
 
 🔧 **Technologies Used:** React Native, Expo, JavaScript, Node.js, Express, PostgreSQL, Spotify Web API, JWT, Google OAuth
+
+### [FirstTrip](https://devpost.com/software/firsttrip-right-crew-right-time?ref_content=user-portfolio&ref_feature=in_progress)  ![CenterPoint Hackathon - Nov 2026](https://img.shields.io/badge/CenterPoint%20Hackathon%20-%20Nov%202026-black?style=for-the-badge&logo=calendar)
+An **interactive, full-stack decision-support dashboard** built for power utility dispatchers for the CenterPoint Energy + UH Code Coogs Hackathon 2026. FirstTrip analyzes historical electrical outage records, telemetry, circuit attributes, and environmental conditions to predict follow-up trip ("second trip") risks and surface critical pre-dispatch context in a prioritized, real-time triage queue. Features explainable incident inspection, human-in-the-loop dispatcher workflows, responsible ML safeguards with automated performance release gates, and zero-mock production safety.
+
+🔧 **Technologies Used:** React, TypeScript, Vite, Python 3.12, FastAPI, DuckDB, Pandas, Scikit-learn, Joblib
 
 ### [Coog Music](https://coogmusic.com/) ![Duration](https://img.shields.io/badge/Feb%202025%E2%80%93May%202025-black?style=for-the-badge&logo=calendar)
 A **Node.js-based music streaming platform** developed by a team of five for University of Houston musicians and listeners, supporting **30 concurrent campus users**. It allows UH students and alumni to upload, share, and stream original music. Users can upload songs with metadata, create playlists, and stream tracks through a clean, interactive UI. The backend uses **Azure MySQL** for structured data storage and **Azure Blob Storage** for media file handling, with a responsive frontend built in **React**.
