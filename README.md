@@ -1,6 +1,6 @@
 # Hi, I'm Janred Salubayba 👋
 
-I am a **Computer Science student at the University of Houston Honors College**, graduating with a **capstone in Cybersecurity** (Spring 2027).
+I am a **Computer Science student at the University of Houston Honors College**, graduating with a **capstone in Cybersecurity** (Fall 2026).
 
 I enjoy **solving complex problems and building real-world solutions** across backend engineering, event-driven architectures, database systems, and cybersecurity. I have built a strong foundation in both low-level and high-level system design through coursework and projects in operating systems, system architecture, and algorithms using **C++** and **Python**, alongside enterprise backend development in **Java (Spring Boot)**, **Apache Kafka**, and **JavaScript/Node.js**.
 
