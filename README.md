@@ -77,6 +77,11 @@ An **ML-powered predictive triage and dispatch decision-support platform** built
 
 🔧 **Technologies Used:** Python 3.12, Scikit-learn, Joblib, DuckDB, Pandas, FastAPI, React, TypeScript, Vite
 
+### [Volume Mixer](https://github.com/janny801/volume-mixer) ![Duration](https://img.shields.io/badge/Nov%202026-black?style=for-the-badge&logo=calendar)
+A native macOS menu-bar utility for controlling the volume of individual running applications without modifying system-wide master volume. Designed with zero amplification and transparent pass-through at 100%, Volume Mixer isolates app audio streams using per-app tap capture, applies a perceptual cubic attenuation curve for natural low-level volume scaling, and provides real-time audio activity indicators, process helper grouping, and output-device change awareness.
+
+🔧 **Technologies Used:** Objective-C, Swift, CoreAudio, AppKit, macOS
+
 ### [Coog Music](https://coogmusic.com/) ![Duration](https://img.shields.io/badge/Feb%202025%E2%80%93May%202025-black?style=for-the-badge&logo=calendar)
 A **Node.js-based music streaming platform** developed by a team of five for University of Houston musicians and listeners, supporting **30 concurrent campus users**. It allows UH students and alumni to upload, share, and stream original music. Users can upload songs with metadata, create playlists, and stream tracks through a clean, interactive UI. The backend uses **Azure MySQL** for structured data storage and **Azure Blob Storage** for media file handling, with a responsive frontend built in **React**.
 
