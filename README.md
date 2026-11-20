@@ -28,14 +28,16 @@ I enjoy **solving complex problems and building real-world solutions** across ba
 ### **Society of Asian Scientists and Engineers (SASE)** — Web Development Officer  
 ![Jan 2025 – May 2026](https://img.shields.io/badge/Jan%202025%E2%80%93May%202026-black?style=for-the-badge&logo=calendar) *Houston, TX*  
 *(Previously Web Development Intern | Jan 2025 – May 2025)*  
+*(Mentor | Aug 2026 – Dec 2026)*  
 - Progressed from Web Development Intern to Web Development Officer, creating internal tools and automating organizational workflows for **400+ members**.
 - Designed and fully deployed an automated membership point-tracking system using **Google Apps Script**, eliminating manual data entry across all chapter events.
 - Built an automated email system delivering personalized welcome emails to new members and real-time attendance confirmations with updated point balances.
 - Grew event attendance by **25%** across **50+ events** through custom bots, SEO, and LinkedIn outreach.
 - Managed chapter web platforms, applied SEO strategies, and expanded Discord engagement via custom bot automations, roles, and integrations.
+- Mentored students from August 2026 to December 2026, helping them secure research opportunities, refine resumes, build personal development skills, and lead them to hackathons.
 - Mentored a Web Development Intern through the full project lifecycle of an NFC card-reader application, from conception to release and implementation, enabling students to scan their University of Houston ID cards at events.
 - Coordinated community outreach (Houston Food Bank) and participated in professional development workshops including resume reviews and LinkedIn sessions.  
-🔧 **Technologies:** JavaScript, Google Apps Script, Discord API, Web Development, SEO, Automation
+🔧 **Technologies:** JavaScript, Google Apps Script, Discord API, Web Development, SEO, Automation, Mentorship
 
 ### **NASA Stennis Space Center** — Software Engineering Intern  
 ![Jan 2024 – May 2024](https://img.shields.io/badge/Jan%202024%E2%80%93May%202024-black?style=for-the-badge&logo=calendar) *Stennis Space Center, MS*  
