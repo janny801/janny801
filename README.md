@@ -64,9 +64,10 @@ I enjoy **solving complex problems and building real-world solutions** across ba
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=janny801&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=janny801&show_icons=true&theme=dark&hide_border=false" alt="Janred's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janny801&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=janny801&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
