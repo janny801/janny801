@@ -51,9 +51,13 @@ I enjoy **solving complex problems and building real-world solutions** across ba
 
 ## 🛠 Skills
 
-- **Programming Languages:** Java, C++, C, Python, JavaScript, SQL, R, Google Apps Script, AutoHotkey
-- **Technologies & Frameworks:** Spring Boot, Apache Kafka, Node.js, Express, React.js, MySQL, Power Automate, Git, GitLab CI/CD, Socket.IO / WebSockets, REST APIs
-- **Areas of Focus:** Event-Driven Architecture, Backend Development, Database Systems & ETL Pipelines, Cybersecurity, Real-Time Applications, Workflow Automation, Systems Design & Algorithms
+- **Languages:** Java, C++, C, Python, TypeScript, JavaScript, Swift, Objective-C, SQL, R
+- **Backend & Distributed Systems:** Spring Boot, Apache Kafka, Node.js, Express, FastAPI, REST APIs, WebSockets / Socket.IO, Event-Driven Architecture
+- **Databases & Data Engineering:** PostgreSQL, MySQL, DuckDB, pgvector, ETL Pipelines, Pandas, Scikit-learn
+- **Frontend & Mobile:** React, React Native, Expo, Tailwind CSS, Vite, Zustand
+- **Cloud, DevOps & Tools:** Git, GitLab CI/CD, Microsoft Azure, Supabase, Grafana, Power Automate, Google Apps Script, JWT / OAuth 2.0, Vitest, Zod
+- **Systems & Native:** macOS / CoreAudio, SwiftUI, AppKit, Operating Systems & Systems Design
+- **Areas of Focus:** Event-Driven Systems, Backend Engineering, Data Engineering & ML Triage, Cybersecurity, Real-Time Applications, Workflow Automation
 
 ---
 
