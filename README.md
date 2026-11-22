@@ -61,6 +61,16 @@ I enjoy **solving complex problems and building real-world solutions** across ba
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=janny801&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janny801&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+</div>
+
+---
+
 ## 📌 Pinned Projects  
 
 ### [ThockCheck](https://thockcheck.onrender.com/#home) ![Duration](https://img.shields.io/badge/Oct%202026%E2%80%93WIP-black?style=for-the-badge&logo=calendar)
